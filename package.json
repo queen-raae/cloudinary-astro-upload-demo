@@ -1,5 +1,5 @@
 {
-  "name": "grateful-group",
+  "name": "cloudinary-astro-upload-demo",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -14,7 +14,9 @@
     "@astrojs/mdx": "^1.0.2",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.0",
+    "@unpic/astro": "^0.0.24",
     "astro": "^3.0.10",
+    "cloudinary": "^1.40.0",
     "markdown-it": "^13.0.1",
     "sanitize-html": "^2.11.0"
   }
